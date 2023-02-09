@@ -1,7 +1,7 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class wh_Q1 {
+public class Wh_Q1 {
     public static void main(String[] args) {
         System.out.printf("Enter the number: ");
         Scanner sc=new Scanner(System.in);
